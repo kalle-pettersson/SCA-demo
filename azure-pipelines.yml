@@ -25,4 +25,4 @@ steps:
     serviceConnectionEndpoint: 'SCA-demo'
     testType: 'app'
     monitorWhen: 'always'
-    failOnIssues: true
+    failOnIssues: false
